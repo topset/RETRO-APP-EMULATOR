@@ -1,0 +1,3 @@
+# Directorio de ROMs para Sony PlayStation (PSX)
+Coloca aquí tus archivos de juegos de PSX (.iso, .cue, .bin, .chd, .pbp).
+La aplicación los detectará automáticamente al iniciar o al refrescar.

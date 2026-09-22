@@ -1,0 +1,3 @@
+# Directorio de ROMs para Sega Genesis / Mega Drive
+Coloca aquí tus archivos de juegos de Sega (.bin, .gen, .md, .smd, .zip).
+La aplicación los detectará automáticamente al iniciar o al refrescar.

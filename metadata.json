@@ -1,0 +1,6 @@
+{
+  "name": "Lanzador de Emuladores Retro",
+  "description": "Lanzador de consolas retro con joysticks interactivos para SNES (Snes9x), Sega (Genesis Plus GX), Game Boy Advance (VisualBoyAdvance), PSX (DuckStation) y N64 (Project64).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
